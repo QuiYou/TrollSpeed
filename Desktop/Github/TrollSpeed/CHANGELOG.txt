@@ -1,0 +1,2 @@
+* Bugfix: Now the HUD will persist between re-springs.
+* NEWS: Now you can find jailbreak versions of TrollSpeed in GitHub “Releases” page.
